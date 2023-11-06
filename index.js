@@ -12,6 +12,7 @@ app.all('/yolo', function(req, res) {
   res.send('Hello World yolo')
 })
 
+console.log("hello world");
 
 
 app.listen(3000)
