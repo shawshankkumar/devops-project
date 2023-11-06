@@ -10,3 +10,7 @@ login to ec2:
 
 ec2:
 <img width="1574" alt="image" src="https://github.com/shawshankkumar/devops-project/assets/74819565/a8ae6e4b-60cc-48d6-bf41-81eaa7f628fc">
+
+github actions:
+
+<img width="1249" alt="image" src="https://github.com/shawshankkumar/devops-project/assets/74819565/c62a0c13-67de-4ac5-8674-6cc8466eba0b">
