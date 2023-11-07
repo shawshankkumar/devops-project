@@ -16,4 +16,4 @@ github actions:
 
 project report:
 
-[Devops project shashank anu dheeraj.docx](https://github.com/shawshankkumar/devops-project/files/13267771/Devops.project.shashank.anu.dheeraj.docx)
+[Devops project shashank anu dheeraj.docx](https://github.com/shawshankkumar/devops-project/files/13277627/Devops.project.shashank.anu.dheeraj.docx)
